@@ -116,3 +116,32 @@
 2025-03-30 18:03:46 [[32minfo[39m]: ::1 - - [30/Mar/2025:18:03:46 +0000] "POST /api/auth/signup HTTP/1.1" 200 141 "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
 2025-03-30 18:03:59 [[32minfo[39m]: User logged in: mia@gmail.com
 2025-03-30 18:03:59 [[32minfo[39m]: ::1 - - [30/Mar/2025:18:03:59 +0000] "POST /api/auth/signin HTTP/1.1" 200 273 "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:55:37 [[32minfo[39m]: Server is running on port 8080.
+2025-03-31 02:55:48 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:55:48 +0000] "GET / HTTP/1.1" 404 45 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:55:49 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:55:49 +0000] "GET /favicon.ico HTTP/1.1" 404 45 "http://127.0.0.1:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:56:47 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:56:47 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:56:47 +0000] "GET /api/users HTTP/1.1" 200 1070 "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:56:47 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:56:47 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:56:47 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:57:56 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:57:56 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:57:56 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:57:57 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:57:57 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:57:57 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:58:37 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:58:37 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:58:37 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:58:38 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:58:38 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:58:38 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:59:30 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:59:30 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:59:30 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 02:59:31 [[32minfo[39m]: Retrieved all users
+2025-03-31 02:59:31 [[32minfo[39m]: ::1 - - [31/Mar/2025:02:59:31 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 03:00:08 [[32minfo[39m]: Retrieved all users
+2025-03-31 03:00:08 [[32minfo[39m]: ::1 - - [31/Mar/2025:03:00:08 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 03:00:09 [[32minfo[39m]: Retrieved all users
+2025-03-31 03:00:09 [[32minfo[39m]: ::1 - - [31/Mar/2025:03:00:09 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 03:00:54 [[32minfo[39m]: Retrieved all users
+2025-03-31 03:00:54 [[32minfo[39m]: ::1 - - [31/Mar/2025:03:00:54 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 03:00:55 [[32minfo[39m]: Retrieved all users
+2025-03-31 03:00:55 [[32minfo[39m]: ::1 - - [31/Mar/2025:03:00:55 +0000] "GET /api/users HTTP/1.1" 304 - "http://127.0.0.1:5173/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0"
+2025-03-31 03:02:30 [[32minfo[39m]: Retrieved all users
+2025-03-31 03:02:30 [[32minfo[39m]: ::1 - - [31/Mar/2025:03:02:30 +0000] "GET /api/users HTTP/1.1" 200 1070 "-" "PostmanRuntime/7.43.3"
